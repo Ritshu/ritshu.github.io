@@ -15,6 +15,7 @@ body {
 
 #myVideo {
     position: fixed;
+    overflow: hidden;
     right: 0;
     bottom: 0;
     min-width: 100%;
@@ -91,7 +92,7 @@ a:hover {
     overflow: hidden;
     position: relative;
     z-index: 4;
-    box-shadow: 0px 5px 50px 0px #6c44fc, 0px 0px 0px 7px rgba(107, 74, 255, 0.5);
+    box-shadow: 0px 5px 50px 0px #449afc, 0px 0px 0px 7px rgba(74, 243, 255, 0.5);
 }
 
 @media screen and (max-width: 576px) {
@@ -120,7 +121,7 @@ a:hover {
 .profile-card__name {
     font-weight: 700;
     font-size: 24px;
-    color: #6944ff;
+    color: #4495ff;
     margin-bottom: 15px;
 }
 
