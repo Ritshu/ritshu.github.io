@@ -1,1 +1,2 @@
-# discontinued project
+# ritshu.github.io
+My personal webpage
